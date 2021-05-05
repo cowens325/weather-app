@@ -49,3 +49,9 @@ li {
   font-weight: bold;
   color: #ffffff;
 }
+
+.website-url {
+  display: block;
+  margin: auto;
+  font-size: 30px;
+}
